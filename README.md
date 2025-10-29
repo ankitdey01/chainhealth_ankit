@@ -98,7 +98,4 @@ contract ChainHealth {
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7b344e5-12f1-4bf0-8dd6-d6166487db0d" />
 
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f4bd394b-352e-415b-837c-5ff832bb0ed3" />
-
-
 
