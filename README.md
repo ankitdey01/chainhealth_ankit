@@ -29,7 +29,8 @@ Built using **Solidity** (compiled to **Solana** via [Solang](https://solang.rea
 
 ## 🧠 Smart Contract
 
+Transaction link - https://celo-sepolia.blockscout.com/tx/0x2ecd50a9a964231c038a2b929fdc62c334edcef6b2c4eff0d0d59292c49945bf
+Transaction hash - 0x2ecd50a9a964231c038a2b929fdc62c334edcef6b2c4eff0d0d59292c49945bf
+Contract creation by - 0x501c4a90AD21956Eb9B81C53dBE1defCDeee87c3
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d7b344e5-12f1-4bf0-8dd6-d6166487db0d" />
-
-
-
